@@ -38,7 +38,7 @@
         <skipTests>true</skipTests>
         <docker.image.prefix>markzgwu</docker.image.prefix>
         <thymeleaf.version>3.0.10.RELEASE</thymeleaf.version>
-        <start-class>org.chuxian.authentication.Application</start-class>
+        <start-class>org.jinyingtaixiang.Application</start-class>
         <timestamp>${maven.build.timestamp}</timestamp>
         <!--指定时间格式 -->
         <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss</maven.build.timestamp.format>
